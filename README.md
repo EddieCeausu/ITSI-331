@@ -5,8 +5,11 @@ This is the ITSI 331 class assignments from University of the Cumberlands in KY.
 ---
 ## Course Information
 ITSS333 - A20 Video Game Programming
+
 Fall 2020 First Bi-Term
+
 Course Format: Online
+
 CRN: 12098
 
 ---
@@ -29,9 +32,13 @@ This course provides an introduction to the topic of developing video games. Top
 --- 
 ## Course Textbook
 Title: Unity in Action
+
 ISBN: 9781617294969
+
 Authors: Joesph Hocking
+
 Publication Date: 2018-02-28
+
 Edition: 2nd 
 
 
