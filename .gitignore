@@ -2,8 +2,9 @@
 # Unity Files #
 # ============== #
 
-/Unity\ Projects/ITSI\ 331/**/Library/
-/Unity\ Projects/ITSI\ 331/**/Logs/ 
+**/Library/
+**/Logs/
+ 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
