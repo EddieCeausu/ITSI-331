@@ -1,14 +1,20 @@
 # ITSI-331
+
 This is the ITSI 331 class assignments from University of the Cumberlands in KY.
+
 ---
 ## Course Information
 ITSS333 - A20 Video Game Programming
 Fall 2020 First Bi-Term
 Course Format: Online
 CRN: 12098
+
 ---
+
 ## Course Description
+
 This course provides an introduction to the topic of developing video games. Topics introduced in the course include graphics programming, game’s physics engine, AI to develop the logic to simulate intelligence in opponents or enemies, and user interfaces. Credit 3 hours. Prerequisite: ITSS 131.
+
 ---
 ## Course Objectives 
 ### Upon completion of this course:
@@ -27,5 +33,5 @@ ISBN: 9781617294969
 Authors: Joesph Hocking
 Publication Date: 2018-02-28
 Edition: 2nd 
----
+
 
